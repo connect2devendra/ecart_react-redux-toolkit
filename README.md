@@ -23,4 +23,6 @@ $ npm run dev
 
 ## Demo screens
 
-![Home Page](G:/github-tutorials/ecart_react-redux-toolkit/public/page-screens/home-page.jpeg "Product List")
+![Home Page](https://github.com/connect2devendra/ecart_react-redux-toolkit/blob/master/public/page-screens/home-page.jpeg "Product List")
+![Cart Page](https://github.com/connect2devendra/ecart_react-redux-toolkit/blob/master/public/page-screens/product-cart-page.jpeg "Cart Items")
+![Product Detail Page](https://github.com/connect2devendra/ecart_react-redux-toolkit/blob/master/public/page-screens/product-detail-page.jpeg "Product Detail Page")
